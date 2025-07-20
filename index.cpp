@@ -6,3 +6,5 @@
 // default name master hota hai but apn main rkhna prefer krte hai
 // git push -u origin main --> sets upstream
 // git checkout -b branch name --> creates a new branch
+// to switch between branches --> git checkout branchName
+// git branch -d branchName --> deletes the branch (error if we are in that branch)
