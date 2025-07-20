@@ -5,3 +5,4 @@
 // git branch -m name --> changes the branch name to main 
 // default name master hota hai but apn main rkhna prefer krte hai
 // git push -u origin main --> sets upstream
+// git checkout -b branch name --> creates a new branch
