@@ -1,9 +1,4 @@
-#include <iostream>
-using namespace std;
-int main(){
-    char learnings[1];
-    learnings[0] = 'c';
-    learnings[1] = 'g';
-
-     return 0;
-}
+// git init --> track changes in the file
+//git remote add origin link --> adds the folder to git remote
+// git branch -m name --> changes the branch name to main
+// git push -u origin main --> sets upstream
